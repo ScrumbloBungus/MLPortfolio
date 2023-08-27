@@ -31,4 +31,9 @@ Libraries Used:
 References
 - [Tech With Tim](https://www.techwithtim.net/tutorials/machine-learning-python/k-nearest-neighbors-1)
 
+### IT Essay
+
+References
+
+-[Quillbot](https://quillbot.com) For Synonyms
 
